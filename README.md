@@ -1,4 +1,4 @@
-# B3D Picture FrameStarter Add-on
+# B3D Picture Frame Starter Add-on
 _A B3D learning project to create a simple picture frame starter add-on._
 
 Wanted to create a simple Blender 3D add-on as both a personal challenge and
@@ -6,9 +6,10 @@ ultimately to display my traditional media paintings in a virtual environment
 eventually.
 
 The add-on is launched via the Operator Search Pop-up Menu and will create
-a simple and configurable 8x10 four-panel picture frame with two-inch frame
-bars and depth of one-inch. From there, edges can be beveled to gussy it up
-a bit as desired.
+a simple and configurable 8-unit x 10-unit (inner dimensions) four-bar picture 
+frame with two-unit width frame bars and one unit in depth. Afterward, the
+edges can be beveled or contours created with additional loop cuts to gussy up
+the frame a bit if desired.
 
 The add-on requires "Developer Extras" to be enabled in Blender Preferences ->
 Display.
